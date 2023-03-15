@@ -13,13 +13,14 @@
     <li> Docker </li>
     <li> MySQL </li>
     <li> TypeScript </li>
+    <li> Python </li>
   </ul>    
   
   <h1>Sobre Mim:</h1>
   <p>Ao longo da minha jornada de aprendizado me venho descobrindo mais como desenvolvedor back-end.</p>
   </br>
 
-  - 🌱 Concluí os módulos de fundamentos e front-end na Trybe. Atualmente estou cursando o módulo de back-end.
+  - 🌱 Concluí os módulos de fundamentos, front-end e Back-End na Trybe. Atualmente estou cursando o módulo de Ciência da computação raspagem de dados em Python.
   - 🤔 Sou atraído por desafios e gosto de inovações. 
   - 👯 Quero colaborar com outras pessoas estudantes e em projetos open source. 
   - 🔭 Tenho interesse em fazer parte de uma comunidade com a qual eu possa aprender e colaborar.
