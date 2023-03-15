@@ -12,6 +12,7 @@
     <li> Node.js </li>
     <li> Docker </li>
     <li> MySQL </li>
+    <li> MongoDb </li>
     <li> TypeScript </li>
     <li> Python </li>
   </ul>    
