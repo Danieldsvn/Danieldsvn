@@ -21,11 +21,11 @@
   <p>Ao longo da minha jornada de aprendizado me venho descobrindo mais como desenvolvedor back-end.</p>
   </br>
 
-  - 🌱 Concluí os módulos de fundamentos, front-end e Back-End na Trybe. Atualmente estou cursando o módulo de Ciência da computação raspagem de dados em Python.
+  - 🌱 Concluí os módulos de fundamentos, front-end, back-end e ciência da computação na Trybe.
   - 🤔 Sou atraído por desafios e gosto de inovações. 
   - 👯 Quero colaborar com outras pessoas estudantes e em projetos open source. 
   - 🔭 Tenho interesse em fazer parte de uma comunidade com a qual eu possa aprender e colaborar.
-  - 🎧 Gosto de ouvir rock instrumental enquanto leio e escrevo códigos. 
+  - 🎧 Gosto de ouvir músicas instrumentais e lo-fi enquanto leio e escrevo códigos. 
 
   ### Entre em Contato:
 
