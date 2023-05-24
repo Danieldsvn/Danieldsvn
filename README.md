@@ -1,7 +1,7 @@
 
   <h1>Oi, pessoal! 👋</h1> 
    
-  <p>Sou desenvolvedor de software para a web e iniciei meus estudos formalmente na Trybe em Novembro de 2021. Desde então, venho desenvolvendo projetos nas stacks front-end e back-end, resolvendo problemas de programação da vida real.</p>
+  <p>Sou desenvolvedor de software para a web e iniciei meus estudos formalmente na Trybe em Novembro de 2021. Desde então, venho desenvolvendo projetos nas stacks front-end e back-end, resolvendo problemas de programação da vida real. Atualmente, estou estudando Java e computação em nuvem(AWS).</p>
   
  
   <p> Sou familiarizado com:</p>
