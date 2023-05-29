@@ -1,7 +1,7 @@
 
   <h1>Oi, pessoal! 👋</h1> 
    
-  <p>Sou desenvolvedor de software para a web e iniciei meus estudos formalmente na Trybe em Novembro de 2021. Desde então, venho desenvolvendo projetos nas stacks front-end e back-end, resolvendo problemas de programação da vida real. Atualmente, estou estudando Java e computação em nuvem(AWS).</p>
+  <p>Estou em transição de carreira para área de TI desde o final de 2021. Iniciei então meus estudos em desenvolvimento web fullstack na Trybe. Desde então, venho desenvolvendo projetos nas stacks front-end e back-end, resolvendo problemas de programação da vida real. Concluí esta formação em abril de 2023. Hoje me idendifico mais com o desenvolvimento back-end.  Atualmente, estou estudando Java e computação em nuvem(AWS).</p>
   
  
   <p> Sou familiarizado com:</p>
@@ -25,7 +25,6 @@
   - 🤔 Sou atraído por desafios e gosto de inovações. 
   - 👯 Quero colaborar com outras pessoas estudantes e em projetos open source. 
   - 🔭 Tenho interesse em fazer parte de uma comunidade com a qual eu possa aprender e colaborar.
-  - 🎧 Gosto de ouvir músicas instrumentais e lo-fi enquanto leio e escrevo códigos. 
 
   ### Entre em Contato:
 
