@@ -1,7 +1,7 @@
 
   <h1>Oi, pessoal! 👋</h1> 
    
-  <p>Estou em transição de carreira para área de TI desde o final de 2021. Iniciei então meus estudos em desenvolvimento web fullstack na Trybe. Desde então, venho desenvolvendo projetos nas stacks front-end e back-end, resolvendo problemas de programação da vida real. Concluí esta formação em abril de 2023. Hoje me idendifico mais com o desenvolvimento back-end.  Atualmente, estou estudando Java e computação em nuvem(AWS). Estou aberto a oportunidades de trabalho em qualquer lugar do Brasil.</p>
+  <p>Estou em transição de carreira para área de TI desde o final de 2021. Iniciei então meus estudos em desenvolvimento web fullstack na Trybe. Desde então, venho desenvolvendo projetos nas stacks front-end e back-end, resolvendo problemas de programação da vida real. Concluí esta formação em abril de 2023. Hoje me idendifico mais com o desenvolvimento back-end. Estou aberto a oportunidades de trabalho em qualquer lugar do Brasil.</p>
   
  
   <p> Sou familiarizado com:</p>
